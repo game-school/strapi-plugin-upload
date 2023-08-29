@@ -35,7 +35,7 @@
     "react-router": "^5.2.0",
     "react-router-dom": "^5.0.0",
     "reactstrap": "8.4.1",
-    "sharp": "0.31.1",
+    "sharp": "^0.32.5",
     "strapi-helper-plugin": "ssh://git@github.com/game-school/strapi-helper-plugin.git",
     "strapi-provider-upload-local": "ssh://git@github.com/game-school/strapi-provider-upload-local.git",
     "strapi-utils": "ssh://git@github.com/game-school/strapi-utils.git",
